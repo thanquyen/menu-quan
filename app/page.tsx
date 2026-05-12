@@ -13,31 +13,31 @@ export default function Home() {
           name: "Dừa non kem matcha",
           price: "35K",
           image:
-            "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1200&auto=format&fit=crop",
+            "/duanonkemmatcha.png",
         },
         {
           name: "Dừa tươi hoa đậu biếc",
           price: "35K",
           image:
-            "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=80&w=1200&auto=format&fit=crop",
+            "duanonhoadaubiec.png",
         },
         {
           name: "Dừa non full topping",
           price: "35K",
           image:
-            "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=1200&auto=format&fit=crop",
+            "duanonfulltopping.png",
         },
         {
           name: "Dừa non dứa thơm",
           price: "35K",
           image:
-            "https://images.unsplash.com/photo-1556679343-c7306c1976bc?q=80&w=1200&auto=format&fit=crop",
+            "duanonduathom.png",
         },
         {
           name: "Dừa non sen lạnh",
           price: "35K",
           image:
-            "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=1200&auto=format&fit=crop",
+            "senlanhduanon.png",
         },
         {
           name: "Sen lạnh kem matcha",
@@ -61,13 +61,13 @@ export default function Home() {
           name: "Matcha latte",
           price: "25K",
           image:
-            "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=1200&auto=format&fit=crop",
+            "matchalatte.png",
         },
         {
           name: "Matcha ít calo",
           price: "30K",
           image:
-            "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1200&auto=format&fit=crop",
+            "matchaitcalo.png",
         },
       ],
     },
@@ -77,7 +77,7 @@ export default function Home() {
       items: [
         {
           name: "Khoai môn latte",
-          price: "25K",
+          price: "30K",
           image:
             "/khoaimon.png",
         },
@@ -85,7 +85,7 @@ export default function Home() {
           name: "Khoai môn kem trứng",
           price: "30K",
           image:
-            "https://images.unsplash.com/photo-1517701604599-bb29b565090c?q=80&w=1200&auto=format&fit=crop",
+            "khoaimonkemtrung.png",
         },
       ],
     },
@@ -97,19 +97,19 @@ export default function Home() {
           name: "Hồng bảo thái",
           price: "30K",
           image:
-            "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=80&w=1200&auto=format&fit=crop",
+            "trathaido.png",
         },
         {
           name: "Lục bảo thái",
           price: "30K",
           image:
-            "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=1200&auto=format&fit=crop",
+            "trathaixanh.png",
         },
         {
           name: "Sữa tươi trân châu đường đen",
           price: "30K",
           image:
-            "https://images.unsplash.com/photo-1558857563-b371033873b8?q=80&w=1200&auto=format&fit=crop",
+            "sưatuoi.png",
         },
         {
           name: "Sữa thạch đào",
@@ -121,7 +121,7 @@ export default function Home() {
           name: "Full topping",
           price: "30K",
           image:
-            "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=1200&auto=format&fit=crop",
+            "fulltopping.png",
         },
         {
           name: "Trà chanh",
